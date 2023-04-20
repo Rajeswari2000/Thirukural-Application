@@ -6,5 +6,5 @@ Features:
 * User can also choose the author whose explanation for the thirukural will be provided
 * User can view history of thirukural 
 * User can view speciality of thirukural
-
+* Followed MVC architecture
 
